@@ -2,7 +2,7 @@
 
 > 为《Mini Martial World》制作自定义角色的入门模板。  
 > 标准流程：**在 `DLLBuilder` 编译出你的 `*.dll` → 放进 `ContentSample` 里作为示例包 → 上传到 Steam 创意工坊**。
-
+示例：[毒系特性人物](https://github.com/MiniFunGame/MiniMartialWorld-CustomPoisonCharactersSample/tree/main)
 ---
 
 ## 目录结构
